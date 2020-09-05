@@ -10,7 +10,7 @@ def intersection(function,x0,x1): #function is the f we want to find its root an
         x_n=x_n1
         #foujji don
         x_n1=x_n2
-
+#bagdadi
 def f(x):
     return math.pow(x,3)-2*x-5
 
